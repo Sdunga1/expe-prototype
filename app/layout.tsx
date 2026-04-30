@@ -13,7 +13,7 @@ const display = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://expe-demo.vercel.app"),
+  metadataBase: new URL("https://expe-prototype.vercel.app"),
   title: "Expe - your in-stay concierge",
   description:
     "An AI concierge for every property a guest stays in. Hosts configure once, guests scan a QR and get a Jarvis-like in-stay experience for the duration of their booking.",
